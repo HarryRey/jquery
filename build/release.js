@@ -87,3 +87,11 @@ module.exports.dependencies = [
 	"shelljs@0.8.4",
 	"inquirer@8.0.0"
 ];
+
+function sum(a,b){
+
+	a=1;
+	b=10;
+	
+	return a + b;
+}
